@@ -14,5 +14,5 @@ An easy way to upload Project/ Big Folder/ Files in GitHub Repository Using VSCO
 2. After downloading, **open the folder with VS Code**
 3. In VS Code, go to **Source Control** tab.
 <p align="center">
-  <img src="Capture.png" width="350" title="Remote">
+  <img src="https://github.com/Risvy/Easy-Way-to-Upload-Folders-in-github-using-VS-Code/blob/main/Capture.PNG" width="350" title="Remote">
 </p>
