@@ -35,4 +35,5 @@ An easy way to upload Project/ Big Folder/ Files in GitHub Repository Using VSCO
 ## Troubleshoot 
 If syncing takes too much time, Restarting VS Code can be helpful.
 
-### Demostration: https://youtu.be/OikfW_HVXeQ
+### Demostration: 
+https://youtu.be/OikfW_HVXeQ [private]
