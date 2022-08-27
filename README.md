@@ -18,5 +18,9 @@ An easy way to upload Project/ Big Folder/ Files in GitHub Repository Using VSCO
 </p>
 4. Go to **Remotes** and check if VSCode automatically finds the Repository. Wait for a few seconds if not found.
 5. Then Upload any folder/files to your local folder.
-6. Go to  **Source Control** tab > Commit > (After Commiting) Push/Sync
-7. Done.
+6. Go to:
+  i) **Source Control** tab 
+  ii) Commit (In the message box, add some message)
+  iii) (After Commiting) Push/Sync
+7. Done
+
