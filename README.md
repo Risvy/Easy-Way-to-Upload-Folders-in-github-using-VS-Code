@@ -28,9 +28,11 @@ An easy way to upload Project/ Big Folder/ Files in GitHub Repository Using VSCO
   
   * Commit (In the message box, add some message) [**Note: Don't leave the message box empty before commit**]
   
-  * (After Commiting) Sync / Push
+  * (After Commiting) Sync Changes
 
 7. Done
 
 ## Troubleshoot 
 If syncing takes too much time, Restarting VS Code can be helpful.
+
+### Demostration: https://youtu.be/OikfW_HVXeQ
