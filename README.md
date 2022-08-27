@@ -25,4 +25,4 @@ An easy way to upload Project/ Big Folder/ Files in GitHub Repository Using VSCO
 7. Done
 
 ## Troubleshoot 
-Restarting VS Code can be helpful.
+If syncing takes too mmuch time, Restarting VS Code can be helpful.
